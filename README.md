@@ -6,7 +6,7 @@ It's a website that has been designed to mimic the design of the popular chat an
 <br>
 <br>
 
-## 📌 **Live Site URL:** <a href="https://discordwebapp.netlify.app/">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="https://souradipporua.github.io/DiscordClone/">**Visit Now** 🚀</a>
 
 <br>
 
@@ -20,6 +20,6 @@ It's a website that has been designed to mimic the design of the popular chat an
 
 ## 📬 Connect With Me
 
-- **LinkedIn** - [Indra Shekhar](https://www.linkedin.com/in/indra-shekhar/)
-- **Twitter** - [@Indra684](https://twitter.com/Indra684)
+- **LinkedIn** - [Souradip-Porua](https://www.linkedin.com/in/souradip-porua-a49599192/)
+- **Twitter** - [@porua_souradip](https://twitter.com/porua_souradip)
 # DiscordClone
